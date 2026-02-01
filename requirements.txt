@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+featuretools
+xgboost
+lightgbm
+hyperopt
+pydash
