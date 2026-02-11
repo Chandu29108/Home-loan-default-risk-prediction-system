@@ -42,13 +42,21 @@ Help banks and financial institutions reduce credit risk by identifying high-ris
 ## Repository Structure
 
 Home-loan-default-risk-prediction-system/
+
 │
+
 ├── Home Loan Default Prediction-Risk Management.ipynb   # Main notebook
+
 ├── models/                                              # Saved ML models
+
 │   └── *.pkl files / *.csv
+
 ├── results/                                             # Outputs, plots, and metrics
+
 │   └── *.png 
+
 ├── requirements.txt                                     # Python dependencies
+
 └── LICENSE                                              # MIT License
 
 ## Features
