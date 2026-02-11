@@ -39,8 +39,6 @@ This project performs an **end-to-end data science pipeline** for predicting whe
 **Business Goal:**
 Help banks and financial institutions reduce credit risk by identifying high-risk applicants early in the loan approval process.
 
-### **Tech Stack**
-
 ## Repository Structure
 
 Home-loan-default-risk-prediction-system/
